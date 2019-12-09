@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+}
+button {
+    
+}
+
+.form__lable {
+    margin-right: 10px;
+}
